@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This is not a serious app, this is the first react app made by amarnath pandey
+
+
 ## Available Scripts
 
 In the project directory, you can run:
